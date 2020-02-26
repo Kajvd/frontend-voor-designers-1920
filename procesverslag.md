@@ -1,4 +1,4 @@
-# H1 Procesverlasg Kaj van Duijn
+# H1 Procesverslag Kaj van Duijn
 
 ![alt text](./img/F4Dsplash.png "Frontend voor Design Splash")
 
@@ -7,7 +7,7 @@
 
 # H3 schetsen
 
-![alt text](./img/schetsen.png "schetsen")
+![alt text](./img/schetsen.jpg "schetsen")
 
 # H3 Eerste prototype
 
