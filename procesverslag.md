@@ -5,28 +5,28 @@
 
 # H2 Eerste les
 
-# H3 schetsen
+schetsen
 
 ![alt text](./img/schetsen.jpg "schetsen")
 
-# H3 Eerste prototype
+Eerste prototype
 
 ![alt text](./img/begin.png "eerste prototype")
 
 # H2 Tweede les 
 
-# H3 tweede prototype 
+tweede prototype 
 
 ![alt text](./img/les2.png "tweede prototype")
 
 # H2 Vakantie 
 
-# H3 Derde prototype
+Derde prototype
 
 ![alt text](./img/vakantie.png "derde prototype")
 
 # H2 Voor de laatste les
 
-# H3 Eindproduct
+Eindproduct
 
 ![alt text](./img/eind.png "eindproduct")
