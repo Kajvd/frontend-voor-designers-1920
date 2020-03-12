@@ -35,7 +35,7 @@ Derde prototype
 
 ![alt text](./img/week3.jpg "derde prototype")
 
-Aan het begin van de laatste week heb ik het voor elkaar gekregen om met keyframes de slides een voor een te kunnen laten zien en het speelt zichzelf dus automatisch af. 
+Aan het begin van de laatste week heb ik het voor elkaar gekregen om met keyframes de slides een voor een te kunnen laten zien en het speelt zichzelf dus automatisch af. Ook heb ik ervoor kunnen zorgen dat wanneer de knop aan of uit staat een bepaalde set foto's word laten zien.
 
 ## Errors
 
