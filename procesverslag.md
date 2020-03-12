@@ -1,9 +1,9 @@
-# H1 Procesverslag Kaj van Duijn
+# Procesverslag Kaj van Duijn
 
 ![alt text](./img/F4Dsplash.png "Frontend voor Design Splash")
 
 
-# H2 Eerste les
+## Eerste les
 
 schetsen
 
@@ -17,7 +17,7 @@ Eerste prototype
 
 Dit was het eerste prototype wat ik heb gemaakt voor deze case. Het is een list met nummers en een Titel erboven.
 
-# H2 Tweede les 
+## Tweede les 
 
 tweede prototype 
 
@@ -25,7 +25,7 @@ tweede prototype
 
 Dit was het tweede prototype wat ik heb gemaakt. Hier heb ik samen met Sanne rechts van de nummers pijltjes toegevoegd zodat het voor de gebruiker duidelijk is dat hij de volgorde van nummers kan veranderen.
 
-# H2 Vakantie 
+## Vakantie 
 
 Derde prototype
 
@@ -33,7 +33,7 @@ Derde prototype
 
 In de vakantie heb ik een sorteer functie gemaakt voor de case, deze sorteer functie sorteert op basis van alfabetische volgorde. Dit heb ik gedaan nadat mij het niet meer lukte om volgorde te veranderen door op de pijl knopjes te klikken.
 
-# H2 Voor de laatste les
+## Voor de laatste les
 
 Eindproduct
 
