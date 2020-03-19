@@ -1,3 +1,25 @@
+# Vragen
+
+Hoi Sanne, ik heb een aantal vragen ivm het gebruikt van json. 
+
+Ik heb geprobeert om een een dvd doos na te maken met css, dit is niet gelukt en nu heb ik gewoon een kubus. Hier besluit ik ook om mee door te gaan.
+Nu gebruik ik om de afbeelding op de voorkant van de kubus te krijgen <img> met de source die ik heb gekregen uit de console, ik neem aan dat het zo niet de bedoeling is. Zou u mij kunnen uitleggen hoe ik het vanuit json kan gebruiken?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # frontend voor designers - opdracht 3: Een interactie uitwerken met externe data
 
 Voor deze opdracht ga je een functionaliteit ontwerpen met externe data. De data is JSON die met een [REST API](https://developer.mozilla.org/en-US/docs/Glossary/REST) van een externe bron wordt ingeladen met Javascript.  Als de data geladen is moeten gebruikers je ontwerp op verschillende manieren kunnen bedienen. Verschillende states zijn vormgeven en worden op het juiste moment getoond.
