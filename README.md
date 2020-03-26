@@ -1,3 +1,10 @@
+# Vragen
+
+Hoi Sanne de vragen over mijn website heb ik bij opdracht3 - eindproduct in de readme gezet.
+
+
+
+
 # Frontend voor Designers 1920
 
 ![alt text](./img/F4Dsplash.png "Frontend voor Design Splash")
