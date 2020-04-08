@@ -53,7 +53,7 @@
 
 
 
-![alt text](./img/darknachthtml.png "het toevoegen van de dag en nacht modus")
+![alt text](./img/darknachhtml.png "het toevoegen van de dag en nacht modus")
 ![alt text](./img/darknachtcss.png "het toevoegen van de dag en nacht modus")
 ![alt text](./img/darknachtjs.png "het toevoegen van de dag en nacht modus")
 
@@ -67,5 +67,5 @@
 
 
 
-![alt text](./img/trailererror1.png "error met het plot")
+![alt text](./img/trailererror1.png "error met de trailer afspelen op het kaartje")
 
